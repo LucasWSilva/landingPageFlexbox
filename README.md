@@ -1,3 +1,10 @@
-# Bootcamp Sandander DIO
+# Landing Page
+Este é um projeto simples de uma Landing Page criado com HTML e CSS. A página contém informações sobre uma empresa de turismo e apresenta serviços oferecidos, planos e informações sobre a empresa.
 
-### Projeto criado durante o curso de Flexbox
+## Tecnologias
+- HTML
+- CSS
+
+### Github Pages
+https://lucaswsilva.github.io/landingPageFlexbox/
+
